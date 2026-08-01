@@ -1122,3 +1122,4 @@ spotxchange.com, 234183, RESELLER, 7842df1d2fe2db34
 markappmedia.site, 322972, RESELLER
 ignitemediatech.com, pub_61112, RESELLER
 improvedigital.com, 2450, RESELLER
+ironsrc.com, 570661, DIRECT
